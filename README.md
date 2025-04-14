@@ -10,4 +10,5 @@ Este repositorio contiene todos los Jupyter Notebooks que estoy desarrollando pa
 
 - `Ejercicios-basicos-en-python`: Fundamentos de Python desde Cadenas y tuplas hasta funciones y clases.
 - `Hurtado_febrero_2025`: Introduccion a PySpark en el Ambiente Databricks.
-- `ML_pyspark_Agua_INDIA.ipynb`: Gráficas con Matplotlib y Seaborn, Estadísticas descriptivas y correlaciones, Estudio y Analisis Sobre la caliad del agua en INDIA
+  - `Hurtado_Abril_2025`: Correcciones y analisis en CoLab Utilizando PySpark.
+- `ML_pyspark_Agua_INDIA.ipynb`: Gráficas con Matplotlib y Seaborn, Estadísticas descriptivas y correlaciones, Estudio y Analisis Sobre la caliad del agua en INDIA utilizando PySpark y Machine Learning
