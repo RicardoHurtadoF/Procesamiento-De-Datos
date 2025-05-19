@@ -12,4 +12,5 @@ Este repositorio contiene todos los Jupyter Notebooks que estoy desarrollando pa
 - `Hurtado_febrero_2025`: Introduccion a PySpark en el Ambiente Databricks.
   - `Hurtado_Stroke_Mayo_2025`: Correcciones y analisis en CoLab Utilizando PySpark.
 -  `Hurtado_SQL_Spark`: Ejercicio Simple utilizando Consultas de SQL en Spark.
+-  `Hurtado_PySpark_Taller_Metricas`: Modelo y Evaluacion de Metricas utilizando Machine Learning en Spark
 - `ML_pyspark_Agua_INDIA.ipynb`: Gráficas con Matplotlib y Seaborn, Estadísticas descriptivas y correlaciones, Estudio y Analisis Sobre la caliad del agua en INDIA utilizando PySpark y Machine Learning
